@@ -1,0 +1,1 @@
+# AngularJS starter kit, Webpack, ES6
