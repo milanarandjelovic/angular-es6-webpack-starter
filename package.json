@@ -16,6 +16,10 @@
     "starter"
   ],
   "author": "Milan Arandjelovic",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/milanarandjelovic/angular-es6-webpack-starter.git"
+  },
   "license": "MIT",
   "dependencies": {
     "angular": "^1.6.4",
