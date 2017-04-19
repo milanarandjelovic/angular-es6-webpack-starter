@@ -15,7 +15,6 @@ install:
 
 before_script:
   - npm run prod
-  - npm run test-server
 
 script:
   - npm run dev
